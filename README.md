@@ -10,7 +10,7 @@
   
 ![Fraga Github stats](https://github-readme-stats.vercel.app/api?username=IOS-Oliveira&theme=dracula)
 
-Sou apaixonado por inovação que busca contribuir para o desenvolvimento de projetos inovadores.
+Sou apaixonado por inovação e que busca contribuir para o desenvolvimento de projetos inovadores.
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/israel.alabianca/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/israel_alabianca/)
